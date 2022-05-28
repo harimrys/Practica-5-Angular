@@ -2,6 +2,7 @@
 
 Se propone generar un formulario con Angular que permita crear, editar, modificar y borrar un listado de personas.
 Para ello se puede utilizar la clase creada en la práctica de TypeScript, Persona, aunque no será necesario proporcionar los campos Dirección, Teléfono y Mail.
+
 A la hora de crear o editar una persona será necesario realizar las siguientes validaciones sobre los datos:
 
 - Se ha de poder dar de alta nuevas personas y visualizarlas en una lista.
