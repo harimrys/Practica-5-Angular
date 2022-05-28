@@ -1,0 +1,16 @@
+.persona,
+.list-button,
+.sexo {
+    margin-right: 15px;
+}
+.bottom-container {
+    margin-bottom: 20px;
+}
+.button-blue {
+    background-color: aqua;
+}
+.card-content{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: 30px 30px;
+}
